@@ -1,5 +1,5 @@
 # BrickBreaker
-A remastered physics based arcade game developed using Unreal Engine and C++
+
 
 # Download Link for Windows 
 https://saibalaji22.itch.io/brickbreaker
